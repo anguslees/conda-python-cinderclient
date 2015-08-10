@@ -1,0 +1,4 @@
+package: python-cinderclient
+script:
+  - conda build .
+build_targets: conda
